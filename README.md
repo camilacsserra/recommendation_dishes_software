@@ -12,7 +12,7 @@ The next phase of development for this project involves expanding the functional
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Recommendation_Software.git
+   git clone https://github.com/camilacsserra/recommendation_dishes_software.git
    ```
 
 2. Navigate to the project directory:
