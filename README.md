@@ -3,7 +3,7 @@
 
 Recommendation_Dishes_Software is a Python terminal program designed to help users explore traditional dishes from various countries. It provides information about ingredients, preparation time, and common allergens associated with each dish. By selecting a country, users can access a list of its traditional dishes.
 
-The next phase of development for this project involves expanding the functionality of the Menu_Tool class. The aim is to incorporate modules that can automatically generate a weekly menu and a corresponding shopping list based on user input. This enhancement will provide users with a convenient way to plan their meals and organize their grocery shopping.
+The next phase of development for this project involves expanding the functionality of the Menu_Tool class. The aim is to incorporate methods that can automatically generate a weekly menu and a corresponding shopping list based on user input. This enhancement will provide users with a convenient way to plan their meals and organize their grocery shopping.
  
 
 ## Installation
