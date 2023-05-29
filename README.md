@@ -28,7 +28,7 @@ The next phase of development for this project involves expanding the functional
 1. Run the program:
 
    ```bash
-   python3 recommendation_software.py
+   python3 recommendation_dishes_software.py
    ```
 
 2. Follow the on-screen instructions to interact with the program.
@@ -46,6 +46,4 @@ The next phase of development for this project involves expanding the functional
 
    - By editing the code script, you have the ability to perform some operations. You can add new dishes to the existing dictionary, remove dishes, and print all the available dishes for each country. 
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
